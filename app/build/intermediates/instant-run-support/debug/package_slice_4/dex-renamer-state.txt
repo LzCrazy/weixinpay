@@ -1,0 +1,4 @@
+#Thu May 18 21:38:31 CST 2017
+base.0=/Users/jalance/Desktop/WeiXinPayDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/jalance/Desktop/WeiXinPayDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

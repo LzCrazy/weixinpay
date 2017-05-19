@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/jalance/Desktop/WeiXinPayDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/jalance/.android/build-cache/e6359fde46fdceb518d2350b3e2a63100fb23135/output/res/values-xlarge-land/values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 63,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]
